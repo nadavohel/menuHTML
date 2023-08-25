@@ -1,0 +1,39 @@
+/* .menoMobileH {
+    display: flex;
+    cursor: pointer;
+    z-index: 50000;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+}
+
+.menuMobileOpenContainer {
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 20000000;
+}
+
+.menuMobileButtonOpen {
+    width: 25px;
+    height: 4px;
+    background-color: #000;
+}
+
+div#menuMobileButtonOpen01 {
+    transition: transform 0.2s;
+}
+
+div#menuMobileButtonOpen02 {
+    margin-top: 2px;
+}
+
+div#menuMobileButtonOpen03 {
+    margin-top: 2px;
+    transition: transform 0.2s, margin-top 0.2s;
+} */
